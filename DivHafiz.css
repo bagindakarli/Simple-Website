@@ -1,0 +1,126 @@
+div.header
+{
+border: 1px solid #000000;
+font-family:calibri;
+background:green;
+height: 200px;
+width: 800px;
+font-size: 2em; 
+text-align: center;
+text-decoration: blink;
+font-weight: bold;
+color: white;
+}
+div.sidebar
+{
+border: 1px solid #330000;
+font-family:calibri;
+background:black;
+float:left;
+width: 200px;
+height: 300px;
+font-size: 2em;
+text-align: center;
+color:red;
+text-decoration: blink;
+font-weight: bold;
+color: magenta;
+}
+div.sidebar2
+{
+border: 1px solid #330000;
+font-family:calibri;
+background:red;
+float:left;
+width: 400px;
+height: 300px;
+font-size: 2em;
+text-align: center;
+text-decoration: blink;
+font-weight: bold;
+color: green;
+}
+
+div.content1
+{
+border: 1px solid #330000;
+background:blue;
+width: 200; 
+height:300px; 
+font-size: 2em;
+text-align: center;
+text-decoration: blink;
+font-weight: bold;
+}
+div.content2
+{
+border: 1px solid #330000;
+background: #FF0;
+width: 600; 
+height:300px; 
+font-size: 2em;
+text-align: center;
+font-weight: bold;
+}
+div.content3
+{
+border: 1px solid #330000;
+background: blue;
+width: 800; 
+height:300px; 
+font-size: 2em;
+text-align: center;
+text-decoration: blink;
+font-weight: bold;
+}
+div.content9
+{
+border: 1px solid #330000;
+background: yellow;
+width: 800; 
+height:50px; 
+font-size: 2em;
+text-align: center;
+text-decoration: blink;
+font-weight: bold;
+color: blue;
+}
+div.sidebar3
+{
+border: 1px solid #000000;
+float: left;
+background: magenta;
+width: 400px;
+height: 50px;
+font-size: 2em;
+text-align: center;
+text-decoration: blink;
+font-weight: bold;
+color: green;
+}
+div.sidebar4
+{
+border: 1px solid #000000;
+float: left;
+background: cyan;
+width: 400px;
+height: 50px;
+font-size: 2em;
+text-align: center;
+text-decoration: blink;
+font-weight: bold;
+color: yellow;
+}
+div.footer
+{
+border: 1px solid #000000;
+float: left;
+background: skyblue;
+width: 800px;
+height: 50px;
+font-size: 2em;
+text-align: center;
+text-decoration: blink;
+font-weight: bold;
+}
+
